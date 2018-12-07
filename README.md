@@ -1,2 +1,2 @@
 # GAStudy
-General Assembly Data Science Sample 
+A series of project completed at General Assembly Data Science immersive course 
