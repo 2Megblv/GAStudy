@@ -1,0 +1,211 @@
+city,job_title,company_name,summary,salary_lower,salary_upper
+Sydney,Data Scientist,Domain Group,As a Data Scientist,salary,
+Sydney,Data Scientist,ANZ Banking Group,As the Data Scientist,salary,
+Sydney,Senior Data Scientist,Domain Group,We are looking for a lead Data Scientist,salary,
+Sydney,Junior Data Scientist,Intellify,We also believe great Data Scientist,"$80,000","$100,000"
+Sydney,Junior Data Scientist,The Eclair Group,Industry experience as a Data Analyst or Junior Data Scientist,"$70,000","$90,000"
+Sydney,Data Scientist,Investigations & Counter Terrorism,Data Scientist,salary,
+Sydney,Junior Data Scientist,Sirius People ,Opportunity to start your career in Data Scientist,salary,
+Sydney,Data Scientist,DataRobot,Data Scientist,salary,
+Sydney,Data Scientist,Datasii,Experience as a Data Scientist,"$100,000","$115,000"
+Sydney,Data Scientist,Freelancer.com,Proven experience as a Data Scientist,"$65,000","$110,000"
+Sydney,Data Scientist,Freshwater Group,The Data Scientist,salary,
+Sydney,Data Scientist,CPT Global,Strong experience working as a Data Scientist,salary,
+Sydney,Data Scientist,Ikon,Provide tangible support to Senior Data Scientist,salary,
+Sydney,Data Scientist,Sydney,Undertake proactive analysis of customer Data Scientist,salary,
+Sydney,Junior Data Scientist,HIVERY,Our team of Data Scientist,"$60,000","$85,000"
+Ultimo,Data Scientist,Domain Group,As a Data Scientist,salary,
+Ultimo,Data Scientist,ANZ Banking Group,As the Data Scientist,salary,
+Ultimo,Senior Data Scientist,Domain Group,We are looking for a lead Data Scientist,salary,
+Ultimo,Junior Data Scientist,Intellify,We also believe great Data Scientist,"$80,000","$100,000"
+Ultimo,Junior Data Scientist,The Eclair Group,Industry experience as a Data Analyst or Junior Data Scientist,"$70,000","$90,000"
+Ultimo,Data Scientist,Investigations & Counter Terrorism,Data Scientist,salary,
+Ultimo,Junior Data Scientist,Sirius People ,Opportunity to start your career in Data Scientist,salary,
+Ultimo,Data Scientist,DataRobot,Data Scientist,salary,
+Ultimo,Data Scientist,Datasii,Experience as a Data Scientist,"$100,000","$115,000"
+Ultimo,Data Scientist,Freelancer.com,Proven experience as a Data Scientist,"$65,000","$110,000"
+Ultimo,Data Scientist,Freshwater Group,The Data Scientist,salary,
+Ultimo,Data Scientist,CPT Global,Strong experience working as a Data Scientist,salary,
+Ultimo,Data Scientist,Ikon,Provide tangible support to Senior Data Scientist,salary,
+Ultimo,Data Scientist,Sydney,Undertake proactive analysis of customer Data Scientist,salary,
+Ultimo,Junior Data Scientist,HIVERY,Our team of Data Scientist,"$60,000","$85,000"
+Sydney,Data Scientist,Domain Group,As a Data Scientist,salary,
+Sydney,Data Scientist,ANZ Banking Group,As the Data Scientist,salary,
+Sydney,Senior Data Scientist,Domain Group,We are looking for a lead Data Scientist,salary,
+Sydney,Junior Data Scientist,Intellify,We also believe great Data Scientist,"$80,000","$100,000"
+Sydney,Junior Data Scientist,The Eclair Group,Industry experience as a Data Analyst or Junior Data Scientist,"$70,000","$90,000"
+Sydney,Data Scientist,Investigations & Counter Terrorism,Data Scientist,salary,
+Sydney,Junior Data Scientist,Sirius People ,Opportunity to start your career in Data Scientist,salary,
+Sydney,Data Scientist,DataRobot,Data Scientist,salary,
+Sydney,Data Scientist,Datasii,Experience as a Data Scientist,"$100,000","$115,000"
+Sydney,Data Scientist,Freelancer.com,Proven experience as a Data Scientist,"$65,000","$110,000"
+Sydney,Data Scientist,Freshwater Group,The Data Scientist,salary,
+Sydney,Data Scientist,CPT Global,Strong experience working as a Data Scientist,salary,
+Sydney,Data Scientist,Ikon,Provide tangible support to Senior Data Scientist,salary,
+Sydney,Data Scientist,Sydney,Undertake proactive analysis of customer Data Scientist,salary,
+Sydney,Junior Data Scientist,HIVERY,Our team of Data Scientist,"$60,000","$85,000"
+Darlinghurst,Data Scientist,Domain Group,As a Data Scientist,salary,
+Darlinghurst,Data Scientist,ANZ Banking Group,As the Data Scientist,salary,
+Darlinghurst,Senior Data Scientist,Domain Group,We are looking for a lead Data Scientist,salary,
+Darlinghurst,Junior Data Scientist,Intellify,We also believe great Data Scientist,"$80,000","$100,000"
+Darlinghurst,Junior Data Scientist,The Eclair Group,Industry experience as a Data Analyst or Junior Data Scientist,"$70,000","$90,000"
+Darlinghurst,Data Scientist,Investigations & Counter Terrorism,Data Scientist,salary,
+Darlinghurst,Junior Data Scientist,Sirius People ,Opportunity to start your career in Data Scientist,salary,
+Darlinghurst,Data Scientist,DataRobot,Data Scientist,salary,
+Darlinghurst,Data Scientist,Datasii,Experience as a Data Scientist,"$100,000","$115,000"
+Darlinghurst,Data Scientist,Freelancer.com,Proven experience as a Data Scientist,"$65,000","$110,000"
+Darlinghurst,Data Scientist,Freshwater Group,The Data Scientist,salary,
+Darlinghurst,Data Scientist,CPT Global,Strong experience working as a Data Scientist,salary,
+Darlinghurst,Data Scientist,Ikon,Provide tangible support to Senior Data Scientist,salary,
+Darlinghurst,Data Scientist,Sydney,Undertake proactive analysis of customer Data Scientist,salary,
+Darlinghurst,Junior Data Scientist,HIVERY,Our team of Data Scientist,"$60,000","$85,000"
+Barangaroo,Data Scientist,Domain Group,As a Data Scientist,salary,
+Barangaroo,Data Scientist,ANZ Banking Group,As the Data Scientist,salary,
+Barangaroo,Senior Data Scientist,Domain Group,We are looking for a lead Data Scientist,salary,
+Barangaroo,Junior Data Scientist,Intellify,We also believe great Data Scientist,"$80,000","$100,000"
+Barangaroo,Junior Data Scientist,The Eclair Group,Industry experience as a Data Analyst or Junior Data Scientist,"$70,000","$90,000"
+Barangaroo,Data Scientist,Investigations & Counter Terrorism,Data Scientist,salary,
+Barangaroo,Junior Data Scientist,Sirius People ,Opportunity to start your career in Data Scientist,salary,
+Barangaroo,Data Scientist,DataRobot,Data Scientist,salary,
+Barangaroo,Data Scientist,Datasii,Experience as a Data Scientist,"$100,000","$115,000"
+Barangaroo,Data Scientist,Freelancer.com,Proven experience as a Data Scientist,"$65,000","$110,000"
+Barangaroo,Data Scientist,Freshwater Group,The Data Scientist,salary,
+Barangaroo,Data Scientist,CPT Global,Strong experience working as a Data Scientist,salary,
+Barangaroo,Data Scientist,Ikon,Provide tangible support to Senior Data Scientist,salary,
+Barangaroo,Data Scientist,Sydney,Undertake proactive analysis of customer Data Scientist,salary,
+Barangaroo,Junior Data Scientist,HIVERY,Our team of Data Scientist,"$60,000","$85,000"
+Mascot,Data Scientist,Domain Group,As a Data Scientist,salary,
+Mascot,Data Scientist,ANZ Banking Group,As the Data Scientist,salary,
+Mascot,Senior Data Scientist,Domain Group,We are looking for a lead Data Scientist,salary,
+Mascot,Junior Data Scientist,Intellify,We also believe great Data Scientist,"$80,000","$100,000"
+Mascot,Junior Data Scientist,The Eclair Group,Industry experience as a Data Analyst or Junior Data Scientist,"$70,000","$90,000"
+Mascot,Data Scientist,Investigations & Counter Terrorism,Data Scientist,salary,
+Mascot,Junior Data Scientist,Sirius People ,Opportunity to start your career in Data Scientist,salary,
+Mascot,Data Scientist,DataRobot,Data Scientist,salary,
+Mascot,Data Scientist,Datasii,Experience as a Data Scientist,"$100,000","$115,000"
+Mascot,Data Scientist,Freelancer.com,Proven experience as a Data Scientist,"$65,000","$110,000"
+Mascot,Data Scientist,Freshwater Group,The Data Scientist,salary,
+Mascot,Data Scientist,CPT Global,Strong experience working as a Data Scientist,salary,
+Mascot,Data Scientist,Ikon,Provide tangible support to Senior Data Scientist,salary,
+Mascot,Data Scientist,Sydney,Undertake proactive analysis of customer Data Scientist,salary,
+Mascot,Junior Data Scientist,HIVERY,Our team of Data Scientist,"$60,000","$85,000"
+Parramatta,Data Scientist,Domain Group,As a Data Scientist,salary,
+Parramatta,Data Scientist,ANZ Banking Group,As the Data Scientist,salary,
+Parramatta,Senior Data Scientist,Domain Group,We are looking for a lead Data Scientist,salary,
+Parramatta,Junior Data Scientist,Intellify,We also believe great Data Scientist,"$80,000","$100,000"
+Parramatta,Junior Data Scientist,The Eclair Group,Industry experience as a Data Analyst or Junior Data Scientist,"$70,000","$90,000"
+Parramatta,Data Scientist,Investigations & Counter Terrorism,Data Scientist,salary,
+Parramatta,Junior Data Scientist,Sirius People ,Opportunity to start your career in Data Scientist,salary,
+Parramatta,Data Scientist,DataRobot,Data Scientist,salary,
+Parramatta,Data Scientist,Datasii,Experience as a Data Scientist,"$100,000","$115,000"
+Parramatta,Data Scientist,Freelancer.com,Proven experience as a Data Scientist,"$65,000","$110,000"
+Parramatta,Data Scientist,Freshwater Group,The Data Scientist,salary,
+Parramatta,Data Scientist,CPT Global,Strong experience working as a Data Scientist,salary,
+Parramatta,Data Scientist,Ikon,Provide tangible support to Senior Data Scientist,salary,
+Parramatta,Data Scientist,Sydney,Undertake proactive analysis of customer Data Scientist,salary,
+Parramatta,Junior Data Scientist,HIVERY,Our team of Data Scientist,"$60,000","$85,000"
+Surry Hills,Data Scientist,Domain Group,As a Data Scientist,salary,
+Surry Hills,Data Scientist,ANZ Banking Group,As the Data Scientist,salary,
+Surry Hills,Senior Data Scientist,Domain Group,We are looking for a lead Data Scientist,salary,
+Surry Hills,Junior Data Scientist,Intellify,We also believe great Data Scientist,"$80,000","$100,000"
+Surry Hills,Junior Data Scientist,The Eclair Group,Industry experience as a Data Analyst or Junior Data Scientist,"$70,000","$90,000"
+Surry Hills,Data Scientist,Investigations & Counter Terrorism,Data Scientist,salary,
+Surry Hills,Junior Data Scientist,Sirius People ,Opportunity to start your career in Data Scientist,salary,
+Surry Hills,Data Scientist,DataRobot,Data Scientist,salary,
+Surry Hills,Data Scientist,Datasii,Experience as a Data Scientist,"$100,000","$115,000"
+Surry Hills,Data Scientist,Freelancer.com,Proven experience as a Data Scientist,"$65,000","$110,000"
+Surry Hills,Data Scientist,Freshwater Group,The Data Scientist,salary,
+Surry Hills,Data Scientist,CPT Global,Strong experience working as a Data Scientist,salary,
+Surry Hills,Data Scientist,Ikon,Provide tangible support to Senior Data Scientist,salary,
+Surry Hills,Data Scientist,Sydney,Undertake proactive analysis of customer Data Scientist,salary,
+Surry Hills,Junior Data Scientist,HIVERY,Our team of Data Scientist,"$60,000","$85,000"
+Macquarie Park,Data Scientist,Domain Group,As a Data Scientist,salary,
+Macquarie Park,Data Scientist,ANZ Banking Group,As the Data Scientist,salary,
+Macquarie Park,Senior Data Scientist,Domain Group,We are looking for a lead Data Scientist,salary,
+Macquarie Park,Junior Data Scientist,Intellify,We also believe great Data Scientist,"$80,000","$100,000"
+Macquarie Park,Junior Data Scientist,The Eclair Group,Industry experience as a Data Analyst or Junior Data Scientist,"$70,000","$90,000"
+Macquarie Park,Data Scientist,Investigations & Counter Terrorism,Data Scientist,salary,
+Macquarie Park,Junior Data Scientist,Sirius People ,Opportunity to start your career in Data Scientist,salary,
+Macquarie Park,Data Scientist,DataRobot,Data Scientist,salary,
+Macquarie Park,Data Scientist,Datasii,Experience as a Data Scientist,"$100,000","$115,000"
+Macquarie Park,Data Scientist,Freelancer.com,Proven experience as a Data Scientist,"$65,000","$110,000"
+Macquarie Park,Data Scientist,Freshwater Group,The Data Scientist,salary,
+Macquarie Park,Data Scientist,CPT Global,Strong experience working as a Data Scientist,salary,
+Macquarie Park,Data Scientist,Ikon,Provide tangible support to Senior Data Scientist,salary,
+Macquarie Park,Data Scientist,Sydney,Undertake proactive analysis of customer Data Scientist,salary,
+Macquarie Park,Junior Data Scientist,HIVERY,Our team of Data Scientist,"$60,000","$85,000"
+Sydney,Data Scientist,Domain Group,As a Data Scientist,salary,
+Sydney,Data Scientist,ANZ Banking Group,As the Data Scientist,salary,
+Sydney,Senior Data Scientist,Domain Group,We are looking for a lead Data Scientist,salary,
+Sydney,Junior Data Scientist,Intellify,We also believe great Data Scientist,"$80,000","$100,000"
+Sydney,Junior Data Scientist,The Eclair Group,Industry experience as a Data Analyst or Junior Data Scientist,"$70,000","$90,000"
+Sydney,Data Scientist,Investigations & Counter Terrorism,Data Scientist,salary,
+Sydney,Junior Data Scientist,Sirius People ,Opportunity to start your career in Data Scientist,salary,
+Sydney,Data Scientist,DataRobot,Data Scientist,salary,
+Sydney,Data Scientist,Datasii,Experience as a Data Scientist,"$100,000","$115,000"
+Sydney,Data Scientist,Freelancer.com,Proven experience as a Data Scientist,"$65,000","$110,000"
+Sydney,Data Scientist,Freshwater Group,The Data Scientist,salary,
+Sydney,Data Scientist,CPT Global,Strong experience working as a Data Scientist,salary,
+Sydney,Data Scientist,Ikon,Provide tangible support to Senior Data Scientist,salary,
+Sydney,Data Scientist,Sydney,Undertake proactive analysis of customer Data Scientist,salary,
+Sydney,Junior Data Scientist,HIVERY,Our team of Data Scientist,"$60,000","$85,000"
+Hills District,Data Scientist,Domain Group,As a Data Scientist,salary,
+Hills District,Data Scientist,ANZ Banking Group,As the Data Scientist,salary,
+Hills District,Senior Data Scientist,Domain Group,We are looking for a lead Data Scientist,salary,
+Hills District,Junior Data Scientist,Intellify,We also believe great Data Scientist,"$80,000","$100,000"
+Hills District,Junior Data Scientist,The Eclair Group,Industry experience as a Data Analyst or Junior Data Scientist,"$70,000","$90,000"
+Hills District,Data Scientist,Investigations & Counter Terrorism,Data Scientist,salary,
+Hills District,Junior Data Scientist,Sirius People ,Opportunity to start your career in Data Scientist,salary,
+Hills District,Data Scientist,DataRobot,Data Scientist,salary,
+Hills District,Data Scientist,Datasii,Experience as a Data Scientist,"$100,000","$115,000"
+Hills District,Data Scientist,Freelancer.com,Proven experience as a Data Scientist,"$65,000","$110,000"
+Hills District,Data Scientist,Freshwater Group,The Data Scientist,salary,
+Hills District,Data Scientist,CPT Global,Strong experience working as a Data Scientist,salary,
+Hills District,Data Scientist,Ikon,Provide tangible support to Senior Data Scientist,salary,
+Hills District,Data Scientist,Sydney,Undertake proactive analysis of customer Data Scientist,salary,
+Hills District,Junior Data Scientist,HIVERY,Our team of Data Scientist,"$60,000","$85,000"
+Sydney,Data Scientist,Domain Group,As a Data Scientist,salary,
+Sydney,Data Scientist,ANZ Banking Group,As the Data Scientist,salary,
+Sydney,Senior Data Scientist,Domain Group,We are looking for a lead Data Scientist,salary,
+Sydney,Junior Data Scientist,Intellify,We also believe great Data Scientist,"$80,000","$100,000"
+Sydney,Junior Data Scientist,The Eclair Group,Industry experience as a Data Analyst or Junior Data Scientist,"$70,000","$90,000"
+Sydney,Data Scientist,Investigations & Counter Terrorism,Data Scientist,salary,
+Sydney,Junior Data Scientist,Sirius People ,Opportunity to start your career in Data Scientist,salary,
+Sydney,Data Scientist,DataRobot,Data Scientist,salary,
+Sydney,Data Scientist,Datasii,Experience as a Data Scientist,"$100,000","$115,000"
+Sydney,Data Scientist,Freelancer.com,Proven experience as a Data Scientist,"$65,000","$110,000"
+Sydney,Data Scientist,Freshwater Group,The Data Scientist,salary,
+Sydney,Data Scientist,CPT Global,Strong experience working as a Data Scientist,salary,
+Sydney,Data Scientist,Ikon,Provide tangible support to Senior Data Scientist,salary,
+Sydney,Data Scientist,Sydney,Undertake proactive analysis of customer Data Scientist,salary,
+Sydney,Junior Data Scientist,HIVERY,Our team of Data Scientist,"$60,000","$85,000"
+Sydney,Data Scientist,Domain Group,As a Data Scientist,salary,
+Sydney,Data Scientist,ANZ Banking Group,As the Data Scientist,salary,
+Sydney,Senior Data Scientist,Domain Group,We are looking for a lead Data Scientist,salary,
+Sydney,Junior Data Scientist,Intellify,We also believe great Data Scientist,"$80,000","$100,000"
+Sydney,Junior Data Scientist,The Eclair Group,Industry experience as a Data Analyst or Junior Data Scientist,"$70,000","$90,000"
+Sydney,Data Scientist,Investigations & Counter Terrorism,Data Scientist,salary,
+Sydney,Junior Data Scientist,Sirius People ,Opportunity to start your career in Data Scientist,salary,
+Sydney,Data Scientist,DataRobot,Data Scientist,salary,
+Sydney,Data Scientist,Datasii,Experience as a Data Scientist,"$100,000","$115,000"
+Sydney,Data Scientist,Freelancer.com,Proven experience as a Data Scientist,"$65,000","$110,000"
+Sydney,Data Scientist,Freshwater Group,The Data Scientist,salary,
+Sydney,Data Scientist,CPT Global,Strong experience working as a Data Scientist,salary,
+Sydney,Data Scientist,Ikon,Provide tangible support to Senior Data Scientist,salary,
+Sydney,Data Scientist,Sydney,Undertake proactive analysis of customer Data Scientist,salary,
+Sydney,Junior Data Scientist,HIVERY,Our team of Data Scientist,"$60,000","$85,000"
+Melbourne,Data Scientist,Domain Group,As a Data Scientist,salary,
+Melbourne,Data Scientist,ANZ Banking Group,As the Data Scientist,salary,
+Melbourne,Senior Data Scientist,Domain Group,We are looking for a lead Data Scientist,salary,
+Melbourne,Junior Data Scientist,Intellify,We also believe great Data Scientist,"$80,000","$100,000"
+Melbourne,Junior Data Scientist,The Eclair Group,Industry experience as a Data Analyst or Junior Data Scientist,"$70,000","$90,000"
+Melbourne,Data Scientist,Investigations & Counter Terrorism,Data Scientist,salary,
+Melbourne,Junior Data Scientist,Sirius People ,Opportunity to start your career in Data Scientist,salary,
+Melbourne,Data Scientist,DataRobot,Data Scientist,salary,
+Melbourne,Data Scientist,Datasii,Experience as a Data Scientist,"$100,000","$115,000"
+Melbourne,Data Scientist,Freelancer.com,Proven experience as a Data Scientist,"$65,000","$110,000"
+Melbourne,Data Scientist,Freshwater Group,The Data Scientist,salary,
+Melbourne,Data Scientist,CPT Global,Strong experience working as a Data Scientist,salary,
+Melbourne,Data Scientist,Ikon,Provide tangible support to Senior Data Scientist,salary,
+Melbourne,Data Scientist,Sydney,Undertake proactive analysis of customer Data Scientist,salary,
+Melbourne,Junior Data Scientist,HIVERY,Our team of Data Scientist,"$60,000","$85,000"
